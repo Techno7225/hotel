@@ -1,0 +1,459 @@
+@media (min-width: 320px) and (max-width: 768px) {
+	.prev-indicator {
+		left: -12px !important;
+	}
+	.next-indicator {
+		right: -12px !important;
+	}
+	.facility-align {
+		text-align: center;
+	}
+	.foot-logo-media {
+		width: 80%;
+	}
+	.align-media {
+		text-align: center !important;
+	}
+	.hero-heading {
+		font-size: 7vw !important;
+	}
+	.hero-form-media {
+	    display: grid !important;
+    }
+	.room-faclty-media {
+		text-align: center !important;
+	}
+	.navbar-brand {
+		width: 75% !important;
+	}
+	.slider-button-sec {
+	    height: 25% !important;
+        margin-top: 39rem !important;
+        width: 12% !important;
+    }
+	.slider-media {
+		margin-top: 0 !important;
+	}
+}
+@media (min-width: 768px) and (max-width: 992px) {
+	.prev-indicator {
+		left: -40px !important;
+	}
+	.next-indicator {
+		right: -40px !important;
+	}
+	.hero-form-media {
+	    display: grid !important;
+    }
+	.slider-button-sec {
+	    height: 25% !important;
+        margin-top: 40rem !important;
+        width: 3% !important;
+    }
+	.about-img-position {
+	    width: 40% !important;
+        bottom: 0px !important;
+        left: 160px !important;
+    }
+	.about-img-position-sec {
+	    width: 50% !important;
+        top: -30px !important;
+        left: -40px !important;
+    }
+	.slider-media {
+		margin-top: 0 !important;
+	}
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+	.prev-indicator {
+		left: -31px !important
+	}
+	.next-indicator {
+		right: -29px !important
+	}
+	.menu-space {
+	    padding: 0px 0 !important;
+    }
+	.slider-button-sec {
+	    height: 25% !important;
+        margin-top: 11rem !important;
+        width: 3% !important;
+    }
+	.about-img-position {
+	    width: 40% !important;
+        bottom: 0px !important;
+        left: 220px !important;
+    }
+	.about-img-position-sec {
+	    width: 45% !important;
+        top: -40px !important;
+        left: -45px !important;
+    }
+}
+@media (min-width: 320px) and (max-width: 575px) {
+	.about-img-position {
+	    width: 40% !important;
+        bottom: 0px !important;
+        left: 160px !important;
+    }
+	.about-img-position-sec {
+	    width: 40% !important;
+        top: -10px !important;
+        left: 0px !important;
+    }
+	.d-table-media {
+	display: grid;
+    }
+	.d-none-media {
+	display: none;
+    }
+	.table-align-media {
+		text-align: center !important;
+	}
+}
+@media (min-width: 575px) and (max-width: 768px) {
+	.about-img-position {
+	    width: 40% !important;
+        bottom: 0px !important;
+        left: 270px !important;
+    }
+	.about-img-position-sec {
+	    width: 45% !important;
+        top: -15px !important;
+        left: -10px !important;
+    }
+}
+
+
+/* Background color and images */
+
+#footer-bg {
+	background-color: teal;
+}
+#header-bg {
+	background-color: #000000;
+    background-image: url(../images/hero_bg_img.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#r-header-bg {
+	background-color: #000000;
+    background-image: url(../images/sofa_img.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#card-header-bg {
+    background-image: url(../images/card_section_bg.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#about-us-bg {
+	background-color: #000000;
+    background-image: url(../images/about_bg_img.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	background-position: center;
+}
+#contact-us-bg {
+	background-color: #000000;
+    background-image: url(../images/contact_us_bg.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	background-position: center;
+}
+#contact-bg {
+	background-color: #000000;
+    background-image: url(../images/city_img.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#location-bg {
+    background-image: url(../images/location_bg.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#location-bg {
+	background-color: #000000;
+    background-image: url(../images/location_bg.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#book-room-bg {
+	background-color: #000000;
+    background-image: url(../images/architecture.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.bg-trans {
+	background-color: transparent !important;
+}
+.bg-black {
+	color: #000;
+}
+
+
+/* Font-Size */
+
+.fs-60 {
+	font-size: 60px;
+}
+.fs-10 {
+	font-size: 10px;
+}
+
+
+/* font-family */
+
+.f-marcellus {
+	font-family: Marcellus;
+}
+.f-sans {
+	font-family: sans-serif;
+}
+
+/* Height Css */
+
+.h-200 {
+	height: 200px;
+}
+.h-500 {
+	height: 500px;
+}
+
+
+/* Hero section css */
+.menu-space {
+	padding: 0px 2rem;
+}
+.header-bg {
+	background-color: blanchedalmond;
+}
+.color-blanch {
+	color: blanchedalmond;
+}
+.grayscale {
+  filter: grayscale(100%);
+}
+.icon-align-end {
+	text-align: end;
+}
+.box-corn {
+	background-color: cornsilk;
+}
+.hero-form-media {
+	display: flex;
+}
+
+/* Rooms css class */
+
+.parallax-img-container {
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+	
+}
+.elementor-background-overlay {
+	background-color: #000000;
+    opacity: 0.6;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+.btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
+    color: var(--bs-btn-active-color);
+    background-color: var(--bs-btn-active-bg);
+    border-color: transparent !important;
+}
+.shadow-box {
+	background-color: #FFFFFF0A;
+}
+.maark li::marker {
+    color: blanchedalmond;
+}
+.carousel-position {
+	margin-top: -6rem;
+}
+
+.placeholder-style::placeholder {
+	color: white !important;
+}
+.slider-button {
+	height: 25%;
+    margin-top: 12rem;
+}
+.slider-button-sec {
+	height: 25%;
+    margin-top: 12rem;
+}
+
+/* Card section css */
+
+
+
+/* Checkout section css */
+
+.form-control-lg {
+	background-color: transparent !important;
+}
+.form-row .required {
+    color: red;
+    font-weight: 700;
+    border: 0!important;
+    text-decoration: none;
+    visibility: visible;
+}
+.table-dark {
+    --bs-table-bg: transparent !important;
+}
+.accordion {
+    --bs-accordion-bg: transparent !important;
+	--bs-accordion-border-color: none !important;
+}
+.accordion-button:not(.collapsed) {
+    background-color: transparent !important;
+}
+.table>:not(caption)>*>* {
+    background-color: transparent !important;
+}
+.accordion-button::after {
+    background-color: snow;
+    border-radius: 50%;
+}
+.accordion-button:focus {
+    box-shadow: none !important;
+}
+.border-blanch {
+	border: 1px solid blanchedalmond;
+}
+.form-control-lg::placeholder {
+	color: #fff !important;
+}
+
+/* About Section css */
+
+.about-img-position {
+	width: 46%;
+    bottom: -47px;
+    left: 290px;
+}
+.about-img-position-sec {
+	width: 50%;
+    top: -40px;
+    left: -80px;
+}
+.play-icon {
+	width: 10% !important;
+    height: 20%;
+    background-color: #0B6354;
+}
+
+
+/* Begin::Popup Box css */
+.modal-content {
+    background-color: black !important;
+}
+/* end::Popup Box css */
+
+/* begin::background image black shadow css */
+.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.4;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-background-overlay {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+.parallax-img-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+.parallax-img-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    object-position: 50% 50%;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    will-change: transform, opacity;
+}
+/* end::background image black shadow css */
+
+/* begin::Scroll Button Css */
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 70px;
+    right: 10px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    padding: 25px;
+    border-radius: 40px;
+}
+.top-btn {
+	margin: -8px 0px 0px -8px;
+}
+
+#myBtn:hover {
+    background-color: blanchedalmond;
+    color: black;
+	transition: 0.9s;
+}
+/* end::Scroll Button Css */
